@@ -1,0 +1,30 @@
+body {
+    min-width: 350px;
+    background-color: rgb(58, 127, 218);
+    margin: 0;
+}
+h2{
+    background: fixed;
+    color: aliceblue;
+    font-style: oblique;
+    margin-left: 10px;
+}
+p{
+    background-color: rgb(174, 54, 54);
+    font-style: italic;
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    border-radius: 6px;
+    border: 2px solid lightblue;
+    padding: 10px;
+}
+
+footer{
+    margin-top: 10px;
+    font-size: 12px;
+    padding: 10px;
+    background-color: black;
+    color: wheat;
+}

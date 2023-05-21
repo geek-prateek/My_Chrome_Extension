@@ -1,0 +1,15 @@
+{
+    "name": "Live Cricket Updates",
+    "version": "1.0.0",
+    "description": "Keep track of your live Cricket matches while working, in just one click.",
+    "manifest_version": 3,
+    "author": "NGVP",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Live Cricket Updates",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
